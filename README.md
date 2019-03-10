@@ -8,4 +8,6 @@ Students who are willing to subscribe a textbook through School of Finance are s
 
 The first and second chapter slides have been uploaded. 
 
+I uploaded several tutorial videos to assit you use Latex. (weblink：https://pan.baidu.com/s/10L5DQb5oz1FKZ5xf997wWQ pin：sqlf).
+
 %============================================================
